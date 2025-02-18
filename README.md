@@ -9,4 +9,7 @@ The Electricity Billing System simplifies the management of electricity consumpt
 4.Bill Generation
 5.Bill Payment
 
+## RegistrationPage
+
+![image alt](https://github.com/trinadhgeti999/Electricity-Billing-System/blob/e7fee497f6de50cc4e256717b5b5fc14fee68fe8/RegistrationPage.png)
 
